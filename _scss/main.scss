@@ -1,6 +1,131 @@
-@import "reset";
-@import "syntax";
+/* CSS compiled from SCSS */
+/* --------------------------------------- */
 
-body {
-    background: white;
+@import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
+@import "modules/_reset";
+@import "modules/_syntax";
+// Import Sassline base SCSS files in order so variables are read correctly.
+@import "modules/_typebase";
+
+$brandbg: #f5f4ee;
+$brandmain: #22264b;
+$brandsecond: #BB3D2E;
+
+*{
+  vertical-align: baseline;
+}
+body{
+  background: white;
+  background-color: #f5f4ee;
+  font-family: Lora;
+  font-size: 14px;
+}
+a{
+  color: #b56969;
+}
+/* Layout */
+.wrap{
+  max-width: 12000px;
+  width: 80%;
+  margin: 0px auto;
+  display: flex;
+}
+
+.site-header{
+  h1{
+    font-size: 2em;
+    a{
+      color: white;
+      text-decoration: none;
+    }
+  }
+  height: 150px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url('../img/geometric-multicolor-triangles.jpg');
+}
+
+
+nav {
+	width: 30%;
+	padding: 20px;
+	padding-top: 5rem;
+}
+
+main {
+	width: 70%;
+	padding: 20px;
+  border-left: 1px solid #efefef;
+  margin: 10px;
+  background-color: white;
+}
+
+article header h1 {
+  margin: 0;
+  font-size: 2.5em;
+  color: $brandsecond;
+}
+
+article header {
+  border-bottom: 1px solid $brandbg;
+}
+
+/* Typography */
+
+h1, h2, h3{
+  color: $brandmain;
+}
+
+/* Navigation */
+nav ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	li{
+  	margin: 5px 5px 5px 0;
+  	padding: 5px 5px 5px 0;
+  	border-bottom: 1px solid #efefef;
+	}
+}
+
+nav > .nav-week{
+  padding: 10px;
+}
+nav > .nav-week:nth-child(2n){
+  background-color:$brandbg;
+}
+
+.nav-week > div{
+  color: $brandmain;
+  font-weight: bold;
+  font-size: 1.25em;
+}
+
+/* Tables http://codepen.io/sdurphy/pen/aDxum */
+table {
+  background-color: transparent;
+  border-collapse: collapse;
+  border-spacing: 0;
+  max-width: 100%;
+}
+
+table tbody tr:hover > td, table tbody tr:hover > th {
+  background-color: #ebebeb;
+}
+
+table thead th {
+  vertical-align: bottom;
+}
+
+table th {
+  font-weight: bold;
+  border-bottom: 1px solid #c51110;
+}
+
+table th, table td {
+  border-top: 1px solid #DDDDDD;
+  padding: 8px;
+  text-align: left;
+  vertical-align: top;
 }

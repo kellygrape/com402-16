@@ -1,13 +1,24 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: COM402 | Advanced Web Design and Development
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
+<article>
+	<header>
+		<h1>SJU Advanced Web Design</h1>
+		<p>Spring 2016</p>
+    <p>COM402 | Tues/Thurs 3:00-4:30 | MH 150</p>		
+	</header>
+	
+	<p>Welcome to Advanced Web Design. This site will be updated frequently with course content and resources.</p>
+
+	<p>The class will be a mixture of web design theory and practical front-end techniques. Students are expected to have experience hand-coding websites using HTML and CSS, a basic understanding of using Git, and be familiar with basic principles of design such as color and typography. Topics covered will include: usability, accessibility, git, Javascript/jQuery, designing for content management, and using Wordpress as a CMS. By the end of this course, students should have a solid understanding of the web design industry and modern web design techniques.</p>
+	<p>Contact me any time with questions! <a href="kpipe@sju.edu">kpipe@sju.edu</a></p>
+	
+	
+	<ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-</div>
+</article>

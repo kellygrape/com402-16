@@ -1,4 +1,12 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-highlighter: pygments # or rouge or null
+name: COM402 | Advanced Web Design and Development
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+permalink: /:title
 exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+collections:
+  resources:
+    output: true

@@ -1,21 +1,14 @@
+/* CSS compiled from SCSS */
+/* --------------------------------------- */
+@import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
 /*****************************************************************************/
 /*
 /* Common
 /*
 /*****************************************************************************/
 /* Global Reset */
-* {
-  margin: 0;
-  padding: 0; }
-
 html, body {
   height: 100%; }
-
-body {
-  background-color: black;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
-  text-align: center; }
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
@@ -104,7 +97,7 @@ a:visited {
 
 .footer .rss {
   margin-top: 1.1em;
-  margin-right: -0.2em;
+  margin-right: -.2em;
   float: right; }
 
 .footer .rss img {
@@ -119,7 +112,7 @@ a:visited {
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
-  padding: 0 0.4em; }
+  padding: 0 .4em; }
 
 .post ul, .post ol {
   margin-left: 1.35em; }
@@ -127,7 +120,7 @@ a:visited {
 .post code {
   border: 1px solid #ddd;
   background-color: #eef;
-  padding: 0 0.2em; }
+  padding: 0 .2em; }
 
 .post pre code {
   border: none; }
@@ -395,5 +388,197 @@ a:visited {
   color: #009999; }
 
 /* Literal.Number.Integer.Long */
+/*! Typebase.scss v0.1.0 | MIT License */
+/* Setup */
+html {
+  /* Change default typefaces here */
+  font-family: serif;
+  font-size: 100%;
+  font-smoothing: antialiased;
+  -webkit-text-size-adjust: auto;
+      -ms-text-size-adjust: auto;
+          text-size-adjust: auto; }
+
+/* Copy & Lists */
+p {
+  line-height: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0; }
+
+ul,
+ol {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem; }
+  ul li,
+  ol li {
+    line-height: 1.5rem; }
+  ul ul,
+  ul ol,
+  ol ul,
+  ol ol {
+    margin-top: 0;
+    margin-bottom: 0; }
+
+blockquote {
+  line-height: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem; }
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  /* Change heading typefaces here */
+  font-family: sans-serif;
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+  line-height: 1.5rem; }
+
+h1 {
+  font-size: 2.828rem;
+  line-height: 3rem;
+  margin-top: 2.25rem; }
+
+h2 {
+  font-size: 2.121rem;
+  line-height: 2.25rem;
+  margin-top: 2.25rem; }
+
+h3 {
+  font-size: 1.7675rem; }
+
+h4 {
+  font-size: 0.707rem; }
+
+h5 {
+  font-size: 0.47133rem; }
+
+h6 {
+  font-size: 0.3535rem; }
+
+/* Tables */
+table {
+  margin-top: 1.5rem;
+  border-spacing: 0px;
+  border-collapse: collapse; }
+
+td,
+th {
+  padding: 0;
+  line-height: 24px; }
+
+/* Code blocks */
+code {
+  vertical-align: bottom; }
+
+/* Leading paragraph text */
+.lead {
+  font-size: 1.414rem; }
+
+/* Hug a the block above you */
+.hug {
+  margin-top: 0; }
+
+* {
+  vertical-align: baseline; }
+
 body {
-  background: white; }
+  background: white;
+  background-color: #f5f4ee;
+  font-family: Lora;
+  font-size: 14px; }
+
+a {
+  color: #b56969; }
+
+/* Layout */
+.wrap {
+  max-width: 12000px;
+  width: 80%;
+  margin: 0px auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+
+.site-header {
+  height: 150px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url("../img/geometric-multicolor-triangles.jpg"); }
+  .site-header h1 {
+    font-size: 2em; }
+    .site-header h1 a {
+      color: white;
+      text-decoration: none; }
+
+nav {
+  width: 30%;
+  padding: 20px;
+  padding-top: 5rem; }
+
+main {
+  width: 70%;
+  padding: 20px;
+  border-left: 1px solid #efefef;
+  margin: 10px;
+  background-color: white; }
+
+article header h1 {
+  margin: 0;
+  font-size: 2.5em;
+  color: #BB3D2E; }
+
+article header {
+  border-bottom: 1px solid #f5f4ee; }
+
+/* Typography */
+h1, h2, h3 {
+  color: #22264b; }
+
+/* Navigation */
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0; }
+  nav ul li {
+    margin: 5px 5px 5px 0;
+    padding: 5px 5px 5px 0;
+    border-bottom: 1px solid #efefef; }
+
+nav > .nav-week {
+  padding: 10px; }
+
+nav > .nav-week:nth-child(2n) {
+  background-color: #f5f4ee; }
+
+.nav-week > div {
+  color: #22264b;
+  font-weight: bold;
+  font-size: 1.25em; }
+
+/* Tables http://codepen.io/sdurphy/pen/aDxum */
+table {
+  background-color: transparent;
+  border-collapse: collapse;
+  border-spacing: 0;
+  max-width: 100%; }
+
+table tbody tr:hover > td, table tbody tr:hover > th {
+  background-color: #ebebeb; }
+
+table thead th {
+  vertical-align: bottom; }
+
+table th {
+  font-weight: bold;
+  border-bottom: 1px solid #c51110; }
+
+table th, table td {
+  border-top: 1px solid #DDDDDD;
+  padding: 8px;
+  text-align: left;
+  vertical-align: top; }
