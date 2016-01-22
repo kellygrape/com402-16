@@ -1,11 +1,11 @@
 name: COM402 | Advanced Web Design and Development
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+markdown: redcarpet
+highlighter: pygments
 permalink: /:title
 exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+redcarpet:
+  extensions: [strikethrough, tables]
 
 collections:
   resources:

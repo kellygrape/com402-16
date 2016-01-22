@@ -18,14 +18,17 @@ URLs (web addresses) are **case sensitive**, and only understand certain charact
 
 Allowed Characters:
 
-`
+```
     A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
     a b c d e f g h i j k l m n o p q r s t u v w x y z
     0 1 2 3 4 5 6 7 8 9 - _ . ~
-`
+```
+
 Reserved Characters (don’t use):
 
+```
     ! * ' ( ) ; : @ & = + $ , / ? % # [ ]
+```
 
 Accented letters, non-latin symbols, and the reserved characters should always be avoided.
 
@@ -64,10 +67,10 @@ Note the trailing forward slash `/` at the end is not part of the folder name - 
 </li>
 <li>
 `notes/` - a folder for your own reference. You can put a copy of the syllabus here, or other documents you find useful.
-</p>
+</li>
+</ul>
 
-Character Sets
---------------
+###Character Sets
 
 All of our HTML files will include a meta tag like this:
 
@@ -77,8 +80,13 @@ And all of our CSS files will include this line at the top:
 
     @charset "UTF-8";
 
-This is a bit of an aside, and you don’t need to know all of the (really boring) details about character sets and text encoding, but I should explain the basic idea since you’ll see this a lot.
 
-At their lowest level, computers handle everything in binary (0s and 1s). But humans read in l
+###Additional Resources
 
-</article>
+- Wikipedia on [URLs](https://en.wikipedia.org/wiki/Uniform_Resource_Locator#List_of_allowed_URL_characters)
+- The W3C has a good explanation on [Unicode, and Character Sets vs Encoding](https://www.w3.org/International/articles/definitions-characters/).
+
+*Further Reading*
+
+- Editorial: [Stop Using Unsafe Characters in URLs](https://perishablepress.com/stop-using-unsafe-characters-in-urls/)
+- [UTF8 Everywhere](http://utf8everywhere.org/)
