@@ -309,6 +309,10 @@ nav > .nav-week:nth-child(2n) {
   font-weight: bold;
   font-size: 1.25em; }
 
+footer {
+  width: 80%;
+  margin: 2em auto; }
+
 /* Tables http://codepen.io/sdurphy/pen/aDxum */
 table {
   background-color: transparent;
