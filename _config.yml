@@ -10,3 +10,5 @@ redcarpet:
 collections:
   resources:
     output: true
+  assignments:
+    output: true

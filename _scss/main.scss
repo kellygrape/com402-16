@@ -3,7 +3,7 @@
 
 @import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
 @import "modules/_reset";
-@import "modules/_syntax";
+//@import "modules/_syntax";
 // Import Sassline base SCSS files in order so variables are read correctly.
 @import "modules/_typebase";
 
@@ -52,7 +52,9 @@ nav {
 	padding: 20px;
 	padding-top: 5rem;
 }
-
+nav .tiny{
+  font-size: .85em;
+}
 main {
 	width: 70%;
 	padding: 20px;
