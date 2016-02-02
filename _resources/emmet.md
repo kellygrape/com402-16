@@ -50,7 +50,9 @@ All you have to do is hit TAB it will be parsed as.
 
 To generate tags AFTER each other (rather than inside each other), use the `+` symbol between your tags.
 
-```article+header```
+```
+article+header
+```
 
 Hit `TAB` to parse as 
 
