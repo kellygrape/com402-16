@@ -36,7 +36,9 @@ Once you are working in an html file, you will be able to use any of the Emmet s
 
 A simple example.
 
-```article>header```
+```
+article>header
+```
 
 All you have to do is hit TAB it will be parsed as.
 
@@ -82,4 +84,4 @@ Here is a video tutorial on using Emmet.  Skip to 3:06 to get to the part where 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0uIPGgq9R5Y" frameborder="0" allowfullscreen></iframe>
 
-You can also check out the [Emmet Cheat Sheet](http://docs.emmet.io/cheat-sheet/).
+You can also check out the [Emmet Cheat Sheet](http://docs.emmet.io/cheat-sheet/), or download a copy of the [handout I made for class](/media/resources/emmet-cheat-sheet.pdf).
