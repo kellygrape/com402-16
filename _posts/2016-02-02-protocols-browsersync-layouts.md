@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  February 2, 2016 - Protocols, Browsersync, Fluid & Fixed
-date:   2016-01-28
+date:   2016-02-02
 permalink: lesson-05/
 ---
 
