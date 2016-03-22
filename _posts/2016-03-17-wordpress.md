@@ -5,11 +5,11 @@ date:   2016-03-17
 permalink: lesson-16/
 ---
 
-##Class Goal
+## Class Goal
 
 We will be working with Wordpress over the next few classes.
 
-##Lesson Plan
+## Lesson Plan
 
 ### What is Wordpress?
 

@@ -7,7 +7,7 @@ title: Project 2 - Javascript and jQuery | COM402 | Advanced Web Design and Deve
 
 [View Project Page](04-project2.html) | [View Part 1](04-project2-part1.html) | [View Part 2](04-project2-part2.html) | [View Part 3](04-project2-part3.html)
 
-##Javascript / jQuery Project
+## Javascript / jQuery Project
 
 Use jQuery or Javascript to create a simple, interactive tool or webpage.
 
@@ -28,13 +28,13 @@ Utilize jQuery / Javascript to create a web page that has different styles when 
 An idea of your choosing.  Check with the teacher first.
 
 
-###File Organization
+### File Organization
 
 - Create a new folder in your document root.  Call it **project2**
 - In your **project2** folder, create another folder.  Call it **part1**
 - In your **part1** folder, build your application.  You should have at minimum an index.html, and organized stylesheets and scripts.  If you are using images, they should also be organized.
 
-###How will you grade this?
+### How will you grade this?
 
 This is worth 30% of Project 2.  20 Points total broken into the points below.
 
@@ -48,6 +48,6 @@ This is worth 30% of Project 2.  20 Points total broken into the points below.
 | 3 points | Submitted on time |
 
 
-##Delivery 
+## Delivery 
 
 This should be submitted, with part 2 of this project, as a GitHub Repository (so, create a GitHub repository in your **project2** folder. Send me a link to your repository.  If you need help or a refresher with this, please let me know **before the due date**.

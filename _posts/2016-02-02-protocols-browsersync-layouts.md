@@ -5,7 +5,7 @@ date:   2016-02-02
 permalink: lesson-05/
 ---
 
-##Lesson Plan
+## Lesson Plan
 
 1. Review and test out using Emmet
 2. Discuss web protocols

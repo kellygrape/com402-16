@@ -97,7 +97,7 @@ Unvalidated code without explanation will result in an automatic deduction of 10
 
 You don't need to validate your CodePen.
 
-##Delivery 
+## Delivery 
 
 When you have completed this project, push it up to Github as a new repository.  Send me a link to your repository.  We have not gone over Github in class, so if you need help or a refresher with this, please let me know **before the due date**.
 

@@ -12,7 +12,7 @@ Organizing your files for this class, and web design in general, is particularly
 
 
 
-##File Naming
+## File Naming
 
 URLs (web addresses) are **case sensitive**, and only understand certain characters.
 
@@ -70,7 +70,7 @@ Note the trailing forward slash `/` at the end is not part of the folder name - 
 </li>
 </ul>
 
-###Character Sets
+### Character Sets
 
 All of our HTML files will include a meta tag like this:
 
@@ -81,7 +81,7 @@ And all of our CSS files will include this line at the top:
     @charset "UTF-8";
 
 
-###Additional Resources
+### Additional Resources
 
 - Wikipedia on [URLs](https://en.wikipedia.org/wiki/Uniform_Resource_Locator#List_of_allowed_URL_characters)
 - The W3C has a good explanation on [Unicode, and Character Sets vs Encoding](https://www.w3.org/International/articles/definitions-characters/).

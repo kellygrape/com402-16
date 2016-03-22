@@ -14,10 +14,10 @@ This project is worth 20% of your final grade.  The project is split into three 
 ### [Part 3 - Worth 30%](04-project2-part3.html)
 
 
-##Delivery 
+## Delivery 
 
 Project delivery is described in each part of the project.  Everything will be due on March 31, 2016.  If you would like me to review any portion of your project before the due date (outside of asking questions personally), it will need to be submitted to me by March 22 (Before Easter Break).
 
-##Grading
+## Grading
 
 There is a chart at the bottom of each part of this project with how much that part is worth and how I will be grading it.  I have assigned points based on what I want you to demonstrate in each part.

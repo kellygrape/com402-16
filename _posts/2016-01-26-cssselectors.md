@@ -5,7 +5,7 @@ date:   2016-01-25
 permalink: lesson-03/
 ---
 
-##Lesson Plan
+## Lesson Plan
 
 1. Review types of selectors in CSS
 2. Introduce CodePen as a tool
@@ -148,13 +148,13 @@ Not sure why you hate CSS Tricks, but here is another run-down of selectors from
 
 
 
-#Assignments
+# Assignments
 
-##Due Thursday, Jan 28
+## Due Thursday, Jan 28
 
 - Take [this CSS Quiz](http://flukeout.github.io/).  How did you do?
 - Work through the [CSS Layout Tutorial](http://learnlayout.com/)
 
-##Due Tuesday, Feb 2
+## Due Tuesday, Feb 2
 
 - [Assignment 1 - CodePen](/assignments/01-codepen.html)

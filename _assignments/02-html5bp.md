@@ -3,7 +3,7 @@ layout: default
 title: Coding Assignment #2 | COM402 | Advanced Web Design and Development
 ---
 
-##Coding Assignment #2 - HTML5 Boilerplate
+## Coding Assignment #2 - HTML5 Boilerplate
 
 *Assigned : 02/04/2016*
 *Due: 02/09/2016*
@@ -37,7 +37,7 @@ Once you have had a chance to experiment with HTML5BP, **use what you have creat
   - [Myth #28: White space is wasted space](http://uxmyths.com/post/2059998441/myth-28-white-space-is-wasted-space)
   
 
-##Submitting Your Assignment
+## Submitting Your Assignment
 
 - On the day they are due, you will present your website during class.
 - You will also create a *zip file* of your entire assignment folder and email it to me.

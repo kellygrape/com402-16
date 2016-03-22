@@ -5,11 +5,11 @@ date:   2016-02-09
 permalink: lesson-07/
 ---
 
-##Class Goal
+## Class Goal
 
 We will discuss CSS layout using a grid and how to implement a pre-made grid system into your designs.
 
-##Lesson Plan
+## Lesson Plan
 
 ### Grids and CSS
 

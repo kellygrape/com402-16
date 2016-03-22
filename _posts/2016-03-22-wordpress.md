@@ -5,25 +5,25 @@ date:   2016-03-22
 permalink: lesson-17/
 ---
 
-##Class Goal
+## Class Goal
 
 Today we will be installing a local server, exploring PHP, installing Wordpress locally, and creating our first child theme.
 
-##Links for the Day
+## Links for the Day
 
 - [MAMP](https://www.mamp.info/en/downloads/)
 - [Wordpress](http://wordpress.org)
 - [Child Theme Generator](https://graphpaperpress.com/wordpress-child-theme-generator/)
 - [What is a Child Theme and Why You Should Use One](https://premium.wpmudev.org/blog/how-to-create-wordpress-child-theme/)
 
-###Wordpress Child Themes
+### Wordpress Child Themes
 
 - http://codex.wordpress.org/Child_Themes
 - http://www.hongkiat.com/blog/wordpress-child-themes-dev/
 - http://themeshaper.com/modify-wordpress-themes/
 
 
-###Building a Child Theme
+### Building a Child Theme
 
 A really good way to customize an already built theme is to create a **child theme**.  A child theme allows you to leverage all of the functionality of a theme, with your own customizations.  You won't be editing the pre-built theme directly; instead, you'll be creating a new theme based on the original theme.
 
@@ -63,6 +63,6 @@ body{
 
 Now, try to make all the post titles a different color.  You will probably have to go into Chrome's **inspect element** to discover what the correct selector you need to use is. 
 
-##Assignments
+## Assignments
 
 - Work on Project 2!

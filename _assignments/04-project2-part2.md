@@ -7,11 +7,11 @@ title: Project 2 - Javascript and jQuery | COM402 | Advanced Web Design and Deve
 
 [View Project Page](04-project2.html) | [View Part 1](04-project2-part1.html) | [View Part 2](04-project2-part2.html) | [View Part 3](04-project2-part3.html)
 
-##jQuery Plugin
+## jQuery Plugin
 
 Utilizing an already-created jQuery plugin, make your own web page / web application.  You may also choose one of the tutorials / samples I’ve given from codrops and use that as a base for your own project.
 
-###Plugin Examples
+### Plugin Examples
 
 These are intended as examples of scripts you can use.  You may choose your own.
 
@@ -32,7 +32,7 @@ These are intended as examples of scripts you can use.  You may choose your own.
 - An alternative - [Savvior](http://savvior.org/) 
 - [Codrops example using Masonry](http://tympanus.net/Development/GammaGallery/)
 
-###Codrops Tutorials / Samples
+### Codrops Tutorials / Samples
 
 If you choose to do one of theses tutorials, make it your own - use your own content and your own styling (when able).
 
@@ -52,13 +52,13 @@ reading through the tutorial on this one will be very instructive
 
 
 
-###File Organization
+### File Organization
 
 - Create a new folder in your document root.  Call it **project2**  (you might have already created this for part 1)
 - In your **project2** folder, create another folder.  Call it **part2**
 - In your **part2** folder, build your application.  You should have at minimum an index.html, and organized stylesheets and scripts.  If you are using images, they should also be organized.
 
-###How will you grade this?
+### How will you grade this?
 
 This is worth 30% of Project 2.  25 Points total broken into the points below.
 
@@ -70,6 +70,6 @@ This is worth 30% of Project 2.  25 Points total broken into the points below.
 | 2 points | Submitted on time |
 
 
-##Delivery 
+## Delivery 
 
 This should be submitted, with part 1 of this project, as a GitHub Repository (so, create a GitHub repository in your **project2** folder). Send me a link to your repository.  If you need help or a refresher with this, please let me know **before the due date**.

@@ -5,13 +5,13 @@ date:   2016-02-16
 permalink: lesson-09/
 ---
 
-##Class Goal
+## Class Goal
 
 We will be talking about Javascript and jQuery in this class, and getting a better understanding of basic programming syntax.
 
-##Lesson Plan
+## Lesson Plan
 
-###Autoprefixing
+### Autoprefixing
 
 In the last class, we briefly talked about using vendor prefixes for things like transitions, animations, etc.  Vendor prefixes help us make sure that browsers that are still working on implementing these new features can understand our code.
 
@@ -27,7 +27,7 @@ You can also install a tool called *Autoprefixer* in Atom.
 - Open the **Command Palette** again and search for Autoprefixer.  Hit `Enter` to run Autoprefixer on your CSS.
 
 
-###Javascript, Java, jQuery
+### Javascript, Java, jQuery
 
 What is the difference between Javascript and jQuery?  How do they differ from Java?
 
@@ -36,7 +36,7 @@ What is the difference between Javascript and jQuery?  How do they differ from J
 - [JQuery vs. JavaScript: What’s the Difference Anyway?](https://blog.udemy.com/jquery-vs-javascript/)
 - [Java, JavaScript and jQuery (Or What’s With All the J’s?)](http://blog.mindscapesolutions.com/2012/03/15/java-javascript-and-jquery-or-whats-with-all-the-js/)
 
-###Intro to Javascript
+### Intro to Javascript
 
 You worked through some of this in the homework from this weekend.
 

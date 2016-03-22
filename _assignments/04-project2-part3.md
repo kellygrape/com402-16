@@ -7,7 +7,7 @@ title: Project 2 - Javascript and jQuery | COM402 | Advanced Web Design and Deve
 
 [View Project Page](04-project2.html) | [View Part 1](04-project2-part1.html) | [View Part 2](04-project2-part2.html) | [View Part 3](04-project2-part3.html)
 
-##UX/UI Challenge
+## UX/UI Challenge
 
 We've learned a little about UX and UI in this class.  I'd like you to think about **tools that you use at SJU**, specifically online tools.  Is there a tool you use that you think has a good user experience?  What about a tool with a user experience that could be improved?
 
@@ -33,6 +33,10 @@ Think about a tool with a user experience that could be improved.
 - Use a tool such as [moqups](https://moqups.com/), [wireframe.cc](https://wireframe.cc/), or any other drawing tool that you wish.  Your mockup / prototype does not need to be perfect, but it should get your point across.
 - Write a 250 word essay that explains your mockup / prototype, and the improvements you are recommending to the current tool.
 - Write your essay using Google Docs or Microsoft Word.  Include your mockup and a screenshot of the tool you are improving.
+
+### How will you grade this?
+
+This is worth 30% of Project 2.  The first part is worth 10 points, the second part is worth 10 points.  You will be graded based on how you apply what you have learned in class about UX and UI, and how you can creatively improve upon an existing tool.
 
 ### Delivery
 

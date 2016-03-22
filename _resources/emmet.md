@@ -19,20 +19,20 @@ Search for `Emmet`, and hit the "Install" button on the package from emmetio.
 
 <img src="/media/resources/emmet-01.png" alt="Install Emmet Package in Atom" />
 
-##Getting Started
+## Getting Started
 
 First, *create an html file*.  The rest of this will not work unless you are working in a file with the extension `html`.
 
 Once you are working in an html file, you will be able to use any of the Emmet shortcuts for creating your HTML, followed bt the `Tab` key.
 
 
-###HTML Basic Structure
+### HTML Basic Structure
 
 - Start with an empty HTML file.
 - Type `!` and hit the Tab key
 - Emmet should create the basic structure of a website for you!
 
-###Other Examples
+### Other Examples
 
 A simple example.
 
@@ -61,7 +61,7 @@ Hit `TAB` to parse as
 <header></header>
 ```
 
-###Simple Math
+### Simple Math
 
 Sometimes you want to create a list with four items, each with a link tag inside.
 
@@ -80,7 +80,7 @@ Hit `TAB` to parse as
 </ul>
 ```
 
-###More Resources
+### More Resources
 
 Here is a video tutorial on using Emmet.  Skip to 3:06 to get to the part where he is demonstrating Emmet (the stuff before that is about installing it).
 
