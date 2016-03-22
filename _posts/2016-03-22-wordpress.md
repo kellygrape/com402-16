@@ -13,6 +13,8 @@ Today we will be installing a local server, exploring PHP, installing Wordpress 
 
 - [MAMP](https://www.mamp.info/en/downloads/)
 - [Wordpress](http://wordpress.org)
+- [Installing Wordpress with MAMP](https://premium.wpmudev.org/blog/develop-wordpress-locally-mamp/)
+
 - [Child Theme Generator](https://graphpaperpress.com/wordpress-child-theme-generator/)
 - [What is a Child Theme and Why You Should Use One](https://premium.wpmudev.org/blog/how-to-create-wordpress-child-theme/)
 
