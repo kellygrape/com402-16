@@ -12,3 +12,5 @@ collections:
     output: true
   assignments:
     output: true
+  wordpress:
+    output: true

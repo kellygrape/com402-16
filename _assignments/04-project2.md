@@ -10,7 +10,9 @@ title: Project 2 - Javascript and jQuery | COM402 | Advanced Web Design and Deve
 This project is worth 20% of your final grade.  The project is split into three parts.  Please follow the instructions for each part.
 
 ### [Part 1 - Worth 35%](04-project2-part1.html)
+
 ### [Part 2 - Worth 35%](04-project2-part2.html)
+
 ### [Part 3 - Worth 30%](04-project2-part3.html)
 
 
