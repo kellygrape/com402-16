@@ -3,7 +3,7 @@ layout: wordpress
 title: Theme Development - Custom Page Templates
 ---
 
-###Custom Page Templates
+## Custom Page Templates
 
 Custom page templates are very useful for creating special features on your website.  You may find that your theme has come installed with a number of special page templates.  Experiment with these and see what they can do!
 
