@@ -7,7 +7,7 @@ title: Project 1 - HTML & CSS | COM402 | Advanced Web Design and Development
 
 **Due Tuesday, March 1, 2016**
 
-This project is worth 20% of your final grade.  You will be graded on your technical coding skills, plus on your design sense.  Use what you have learned thus far in the class to create a compelling, attractive, easy to read web page.
+This project is worth 25% of your final grade.  You will be graded on your technical coding skills, plus on your design sense.  Use what you have learned thus far in the class to create a compelling, attractive, easy to read web page.
 
 **What You'll Learn**
 
