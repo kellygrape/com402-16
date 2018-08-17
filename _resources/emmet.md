@@ -17,7 +17,7 @@ Once Atom is installed, go to the **File** menu, and select **Preferences**.  Th
 
 Search for `Emmet`, and hit the "Install" button on the package from emmetio.
 
-<img src="/media/resources/emmet-01.png" alt="Install Emmet Package in Atom" />
+<img src="{{ site.url }}/media/resources/emmet-01.png" alt="Install Emmet Package in Atom" />
 
 ## Getting Started
 
