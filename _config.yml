@@ -2,6 +2,8 @@ name: COM402 | Advanced Web Design and Development
 markdown: kramdown
 highlighter: pygments
 permalink: /:title
+baseurl: /com402-16
+url: http://kellygrape.github.io
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 redcarpet:
