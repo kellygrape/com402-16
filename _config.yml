@@ -3,7 +3,7 @@ markdown: kramdown
 highlighter: pygments
 permalink: /:title
 baseurl: /com402-16
-url: https://kellygrape.github.io
+url: https://kellygrape.github.io/com402-16
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 redcarpet:
